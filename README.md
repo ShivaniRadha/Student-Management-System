@@ -1,6 +1,7 @@
                                                     Student Management System
-**##Description**
-A simple and beginner-friendly Student Management System built using HTML, CSS, and JavaScript.
+## Description
+This project follows a simple and well-organized file structure to separate HTML, CSS, and JavaScript files.  
+It helps beginners easily understand code flow, maintenance, and basic frontend project organization.
 ## 📌 Features
 - Add student details
 - View student list
